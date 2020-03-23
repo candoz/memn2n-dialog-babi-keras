@@ -1,0 +1,2 @@
+setuptools==45.1.*
+tensorflow==2.1.*

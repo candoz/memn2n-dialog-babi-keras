@@ -1,0 +1,13 @@
+*~
+*.tgz
+*.tar.gz
+*.zip
+*.7z
+*.file
+
+env/
+logs/
+__pycache__/
+cached-data/
+.DS_Store/
+.idea/
