@@ -40,7 +40,7 @@ BATCH_SIZE = 16
 LEARNING_RATE = 0.01
 EMBEDDING_SIZE = 32  # try from 32 to 128
 HOPS = 3             # try from 1 to 4
-TASK_NUMBER = 5      # 1 to 5
+TASK_NUMBER = 1      # 1 to 5
 
 """
 Enable/disable caching for preprocessed data, vectorized as numpy arrays from the original textual dataset.
